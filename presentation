@@ -11,6 +11,6 @@
     <p></p>
     <h3></h3>
     <p></p>
-    <p text-align="center"></p>
+    <p style="text-align:center"></p>
   </body>
 </html>
